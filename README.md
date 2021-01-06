@@ -19,8 +19,6 @@ Hi, I'm Ben Wegert, a passionate self-taught Full Stack Web Developer from Vanco
   <img src="https://img.shields.io/badge/-benwegert@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:benwegert@gmail.com" />
 </a>
 
-<br></br>
-
 **Technologies** 
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -32,7 +30,7 @@ Hi, I'm Ben Wegert, a passionate self-taught Full Stack Web Developer from Vanco
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br></br>
 
-## GitHub Stats
+## 📈 GitHub Stats
 
 <a href="https://github.com/BenWegert/BenWegert">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenWegert&hide=java,html,Hack,PLpgSQL&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
