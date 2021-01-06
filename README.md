@@ -8,7 +8,7 @@ Hi, I'm Ben Wegert, a passionate self-taught Full Stack Web Developer from Vanco
 - 🌱 I’ve recently been learning Solidity and web3 technologies
 - 📊 Planning on building a reworked arbitrage bot tracking all decentralized exchanges
 
-
+![](https://visitor-badge.glitch.me/badge?page_id=BenWegert)
 <a href="https://twitter.com/bweg99">
   <img src="https://img.shields.io/badge/-@bweg99-00acee?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/bweg99" />
 </a>
@@ -18,6 +18,7 @@ Hi, I'm Ben Wegert, a passionate self-taught Full Stack Web Developer from Vanco
 <a href="mailto:benwegert@gmail.com">
   <img src="https://img.shields.io/badge/-benwegert@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:benwegert@gmail.com" />
 </a>
+
 <br></br>
 
 **Technologies** 
@@ -39,17 +40,6 @@ Hi, I'm Ben Wegert, a passionate self-taught Full Stack Web Developer from Vanco
 <a href="https://github.com/BenWegert/BenWegert">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BenWegert&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ben's GitHub Stats" />
 </a>
-
-<a href="https://github.com/BenWegert/algosats-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BenWegert&repo=algosats-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/BenWegert/infoProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BenWegert&repo=infoProject&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>   
-
-<br></br>
-![](https://visitor-badge.glitch.me/badge?page_id=BenWegert)
 
 
 
