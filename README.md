@@ -4,7 +4,7 @@ Hi, I'm Ben Wegert, a passionate self-taught Full Stack Web Developer from Vanco
 
 **About Me**
 
-- 👨🏽‍💻 I’m currently working on a decentralized Ethereum tools & analytics platform desktop application
+- 👨🏽‍💻 I’m currently working on a decentralized Ethereum tools & analytics application
 - 🌱 I’ve recently been learning Solidity and web3 technologies
 - 📊 Planning on building a reworked arbitrage bot tracking all decentralized exchanges
 
