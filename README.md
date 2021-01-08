@@ -33,7 +33,7 @@ Hi, I'm Ben Wegert, a passionate self-taught Full Stack Web Developer from Vanco
 ## 📈 GitHub Stats
 
 <a href="https://github.com/BenWegert/BenWegert">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenWegert&hide=java,html,Hack,PLpgSQL&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenWegert&hide=java,html,Hack,PLpgSQL,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/BenWegert/BenWegert">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BenWegert&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ben's GitHub Stats" />
